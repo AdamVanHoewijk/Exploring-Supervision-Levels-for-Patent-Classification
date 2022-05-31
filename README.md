@@ -1,7 +1,7 @@
 # Thesis
 Adam van Hoewijk &amp; Henrik Holmströms masters thesis on patent classification using differnt supervision levels for patent classification
 
-# Methods
+# Method
 The method utilizing MixText, LOTClass, and BERT for patents to run. To run go through the notebooks starting with 01,01..11,12...21,22...
 
 For further information on MixText and LOTClass go to:
